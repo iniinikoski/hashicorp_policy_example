@@ -23,4 +23,15 @@ data.terraform.tfc.block_auto_apply_runs.test_run_workspace_auto_apply_false: FA
 --------------------------------------------------------------------------------
 PASS: 1/2
 FAIL: 1/2
+
+# opa version
+Version: 1.1.0
+Build Commit:
+Build Timestamp:
+Build Hostname:
+Go Version: go1.23.5
+Platform: darwin/arm64
+Rego Version: v1
+WebAssembly: unavailable
+
 ```
